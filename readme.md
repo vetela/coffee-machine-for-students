@@ -18,7 +18,7 @@ Or you can jest not use it at all.
 
 ## Task
 
-A specification of the task can be found in `CoffeeMaker.pdf` file ind the main directory of the project. Follow it and code your solution.
+A specification of the task can be found in `com.epam.workshops.CoffeeMaker.pdf` file ind the main directory of the project. Follow it and code your solution.
 
 ## Fork a repo
 
